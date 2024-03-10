@@ -1,0 +1,10 @@
+/config/*
+!config/default_template
+/crontab/*
+!crontab/default_template
+/localdata/*
+!localdata/.gitkeep
+/test_script/*
+!/test_script/.gitkeep
+/venv/*
+!/venv/.gitkeep
